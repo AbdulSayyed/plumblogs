@@ -1,0 +1,33 @@
+# These directories need not be in git
+/public/
+/resources/_gen
+/disableFastRender/
+/isabledFastRender/
+/--disableFastRender/
+*.ipynb_checkpoints/
+
+disableFastRender/
+node_modules/
+
+
+# So are these files
+*.log
+*.exe
+*.lnk
+*.ffs_db
+*.ffs_lock
+
+
+
+# what about this one
+.DS_Store
+.hugo_build_lock
+
+# To reduce the size static foler is not allowed
+/static/
+study-cards/static/
+/temp/
+
+#Theme
+
+

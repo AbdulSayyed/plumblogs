@@ -16,7 +16,7 @@ tags : ["fittings","plumbing processing"]
 ## Materials used in Water pipes
 
 - Plastics have revolutionised modern plumbing systems and come in different varieties not all of them are to be interchanged as they are designed for specific purposes. They are mainly divided into two types:
-    + Those can be used for hot and cold water supply and central heating services ( plastic pressure pipes ) such as `Polythylene PE` and `Polybutylene PB-1` and;
+    + Those can be used for hot and cold water supply and central heating services ( plastic pressure pipes ) such as `Polyethylene PE` and `Polybutylene PB-1` and;
     + Those plastics used for `sanitation, drainage and rain water` system
 
 ### Plastic pipes for Sanitation, drainage and rainwater
