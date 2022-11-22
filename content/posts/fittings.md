@@ -4,7 +4,7 @@ logoImg : "logo.png"
 categories  : ["plumbing"]
 date : "2022-11-12"
 description  : " "
-tags : ["Advanced, plumbing/quiz/slides, quiz"]
+tags : ["fittings","plumbing processing"]
 
 ---
 
